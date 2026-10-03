@@ -1,0 +1,10 @@
+# 运行主程序所需
+requests>=2.28.0
+parsel>=1.8.0
+openpyxl>=3.1.0
+
+# 生成应用图标（make_icon.py）所需
+Pillow>=10.0.0
+
+# 打包成 exe 所需
+pyinstaller>=6.0.0

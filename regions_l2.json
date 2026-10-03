@@ -1,0 +1,841 @@
+{
+ "全部": [],
+ "金水": [
+  {
+   "name": "博颂路",
+   "slug": "jinshui-q-renminluzz"
+  },
+  {
+   "name": "北环路",
+   "slug": "jinshui-q-beihuanlu"
+  },
+  {
+   "name": "陈寨",
+   "slug": "jinshui-q-chenz"
+  },
+  {
+   "name": "东风路",
+   "slug": "jinshui-q-dongfengluzz"
+  },
+  {
+   "name": "大石桥",
+   "slug": "jinshui-q-dashiqiaozz"
+  },
+  {
+   "name": "东明路",
+   "slug": "jinshui-q-xinliulu"
+  },
+  {
+   "name": "东三街",
+   "slug": "jinshui-q-dongsanjie"
+  },
+  {
+   "name": "21世纪社区",
+   "slug": "jinshui-q-sjsq"
+  },
+  {
+   "name": "丰产路",
+   "slug": "jinshui-q-xihanzhai"
+  },
+  {
+   "name": "丰庆路",
+   "slug": "jinshui-q-fengqinglu"
+  },
+  {
+   "name": "丰乐路",
+   "slug": "jinshui-q-fengll"
+  },
+  {
+   "name": "福彩路",
+   "slug": "jinshui-q-fucail"
+  },
+  {
+   "name": "国基路",
+   "slug": "jinshui-q-guojilu"
+  },
+  {
+   "name": "广电南路",
+   "slug": "jinshui-q-zhongfangyuan"
+  },
+  {
+   "name": "花园路",
+   "slug": "jinshui-q-huayuanlu"
+  },
+  {
+   "name": "黄河路",
+   "slug": "jinshui-q-huangheluzz"
+  },
+  {
+   "name": "红专路",
+   "slug": "jinshui-q-hzl"
+  },
+  {
+   "name": "经七路",
+   "slug": "jinshui-q-jingbalu"
+  },
+  {
+   "name": "金水路",
+   "slug": "jinshui-q-beilinlu"
+  },
+  {
+   "name": "经三路",
+   "slug": "jinshui-q-fenghuangtaizz"
+  },
+  {
+   "name": "金水周边",
+   "slug": "jinshui-q-jinshuiqu"
+  },
+  {
+   "name": "科技市场",
+   "slug": "jinshui-q-kjsc"
+  },
+  {
+   "name": "绿荫广场",
+   "slug": "jinshui-q-lygc"
+  },
+  {
+   "name": "曼哈顿",
+   "slug": "jinshui-q-mhdzz"
+  },
+  {
+   "name": "南阳路",
+   "slug": "jinshui-q-xishakou"
+  },
+  {
+   "name": "农业路",
+   "slug": "jinshui-q-nongyelu"
+  },
+  {
+   "name": "农科路",
+   "slug": "jinshui-q-nongkel"
+  },
+  {
+   "name": "三全路",
+   "slug": "jinshui-q-jinchengzz"
+  },
+  {
+   "name": "索凌路",
+   "slug": "jinshui-q-suolinglu"
+  },
+  {
+   "name": "沙口路",
+   "slug": "jinshui-q-shakl"
+  },
+  {
+   "name": "水上公园",
+   "slug": "jinshui-q-ssgy"
+  },
+  {
+   "name": "省政府",
+   "slug": "jinshui-q-szf"
+  },
+  {
+   "name": "天明路",
+   "slug": "jinshui-q-tianml"
+  },
+  {
+   "name": "文化路",
+   "slug": "jinshui-q-dapu"
+  },
+  {
+   "name": "未来路",
+   "slug": "jinshui-q-yanzhuang"
+  },
+  {
+   "name": "文博广场",
+   "slug": "jinshui-q-wbgc"
+  },
+  {
+   "name": "新通桥",
+   "slug": "jinshui-q-xtq"
+  },
+  {
+   "name": "鑫苑路",
+   "slug": "jinshui-q-xinyl"
+  },
+  {
+   "name": "英协路",
+   "slug": "jinshui-q-yingxielu"
+  },
+  {
+   "name": "燕庄",
+   "slug": "jinshui-q-yzhuang"
+  },
+  {
+   "name": "玉凤路",
+   "slug": "jinshui-q-yfl"
+  },
+  {
+   "name": "郑州东站",
+   "slug": "jinshui-q-dongzhanpian"
+  },
+  {
+   "name": "政七街",
+   "slug": "jinshui-q-duling"
+  },
+  {
+   "name": "中州大道",
+   "slug": "jinshui-q-longzihuzz"
+  },
+  {
+   "name": "中医院",
+   "slug": "jinshui-q-zyy"
+  }
+ ],
+ "二七": [
+  {
+   "name": "碧云路",
+   "slug": "erqic-q-byl"
+  },
+  {
+   "name": "长江路",
+   "slug": "erqic-q-changjiangluzz"
+  },
+  {
+   "name": "大学路",
+   "slug": "erqic-q-daxuelu"
+  },
+  {
+   "name": "大学南路",
+   "slug": "erqic-q-dxnl"
+  },
+  {
+   "name": "二七周边",
+   "slug": "erqic-q-erqiqu"
+  },
+  {
+   "name": "古玩城",
+   "slug": "erqic-q-gwczz"
+  },
+  {
+   "name": "淮河路",
+   "slug": "erqic-q-luzhai"
+  },
+  {
+   "name": "火车站",
+   "slug": "erqic-q-dehuajie"
+  },
+  {
+   "name": "华中片",
+   "slug": "erqic-q-huazhp"
+  },
+  {
+   "name": "河医片",
+   "slug": "erqic-q-heyip"
+  },
+  {
+   "name": "淮南街",
+   "slug": "erqic-q-hnj"
+  },
+  {
+   "name": "淮北街",
+   "slug": "erqic-q-hbj"
+  },
+  {
+   "name": "航海路",
+   "slug": "erqic-q-hhlzz"
+  },
+  {
+   "name": "解放路",
+   "slug": "erqic-q-jiefanglu"
+  },
+  {
+   "name": "京广路",
+   "slug": "erqic-q-jingguanglu"
+  },
+  {
+   "name": "交通路",
+   "slug": "erqic-q-jtl"
+  },
+  {
+   "name": "连云路",
+   "slug": "erqic-q-lyunlu"
+  },
+  {
+   "name": "铭功路",
+   "slug": "erqic-q-minggonglu"
+  },
+  {
+   "name": "棉纺东路",
+   "slug": "erqic-q-mfdl"
+  },
+  {
+   "name": "南三环",
+   "slug": "erqic-q-nshzz"
+  },
+  {
+   "name": "庆丰街",
+   "slug": "erqic-q-qingfj"
+  },
+  {
+   "name": "嵩山路",
+   "slug": "erqic-q-qiliyan"
+  },
+  {
+   "name": "嵩山南路",
+   "slug": "erqic-q-ssnl"
+  },
+  {
+   "name": "升龙国际",
+   "slug": "erqic-q-slgj"
+  },
+  {
+   "name": "桃源路",
+   "slug": "erqic-q-tyl"
+  },
+  {
+   "name": "万达广场",
+   "slug": "erqic-q-wandgc"
+  },
+  {
+   "name": "兴华南街",
+   "slug": "erqic-q-xinghuanj"
+  },
+  {
+   "name": "一马路",
+   "slug": "erqic-q-yimalu"
+  },
+  {
+   "name": "政通路",
+   "slug": "erqic-q-ztl"
+  }
+ ],
+ "郑东新区": [
+  {
+   "name": "北龙湖",
+   "slug": "zhengdongxinqu-q-beilonghuzz"
+  },
+  {
+   "name": "CBD",
+   "slug": "zhengdongxinqu-q-cbdneihuanlu"
+  },
+  {
+   "name": "东风东路",
+   "slug": "zhengdongxinqu-q-dongfengdonglu"
+  },
+  {
+   "name": "东风南路",
+   "slug": "zhengdongxinqu-q-dongfengnanlu"
+  },
+  {
+   "name": "鸿园片区",
+   "slug": "zhengdongxinqu-q-hongyuanpianquabc"
+  },
+  {
+   "name": "黄河东路",
+   "slug": "zhengdongxinqu-q-huanghedonglu"
+  },
+  {
+   "name": "黄河南路",
+   "slug": "zhengdongxinqu-q-huanghenanlu"
+  },
+  {
+   "name": "祭城",
+   "slug": "zhengdongxinqu-q-jczz"
+  },
+  {
+   "name": "聚源路",
+   "slug": "zhengdongxinqu-q-juyuanl"
+  },
+  {
+   "name": "金水东路",
+   "slug": "zhengdongxinqu-q-jinshuidonglu"
+  },
+  {
+   "name": "九如路",
+   "slug": "zhengdongxinqu-q-jrl"
+  },
+  {
+   "name": "康宁街",
+   "slug": "zhengdongxinqu-q-kangnignjie"
+  },
+  {
+   "name": "康平路",
+   "slug": "zhengdongxinqu-q-kangpinglu"
+  },
+  {
+   "name": "龙子湖",
+   "slug": "zhengdongxinqu-q-lzhzz"
+  },
+  {
+   "name": "绿地老街",
+   "slug": "zhengdongxinqu-q-lvdilaojie"
+  },
+  {
+   "name": "绿城百合",
+   "slug": "zhengdongxinqu-q-lvchengbh"
+  },
+  {
+   "name": "列里路",
+   "slug": "zhengdongxinqu-q-lielilu"
+  },
+  {
+   "name": "农业东路",
+   "slug": "zhengdongxinqu-q-nonglindonglu"
+  },
+  {
+   "name": "农业南路",
+   "slug": "zhengdongxinqu-q-nongynanlu"
+  },
+  {
+   "name": "七里河",
+   "slug": "zhengdongxinqu-q-qilh"
+  },
+  {
+   "name": "商都路",
+   "slug": "zhengdongxinqu-q-shangdl"
+  },
+  {
+   "name": "商鼎路",
+   "slug": "zhengdongxinqu-q-shangdingl"
+  },
+  {
+   "name": "通泰路",
+   "slug": "zhengdongxinqu-q-tongtailu"
+  },
+  {
+   "name": "天赋路",
+   "slug": "zhengdongxinqu-q-tfl"
+  },
+  {
+   "name": "祥盛街",
+   "slug": "zhengdongxinqu-q-xiangshengjie"
+  },
+  {
+   "name": "心怡路",
+   "slug": "zhengdongxinqu-q-xinyilu"
+  },
+  {
+   "name": "兴荣街",
+   "slug": "zhengdongxinqu-q-xrj"
+  },
+  {
+   "name": "新东站片",
+   "slug": "zhengdongxinqu-q-xdzp"
+  },
+  {
+   "name": "杨金片区",
+   "slug": "zhengdongxinqu-q-yangjinpianquabc"
+  },
+  {
+   "name": "永平路",
+   "slug": "zhengdongxinqu-q-yongpinglu"
+  },
+  {
+   "name": "众意西路",
+   "slug": "zhengdongxinqu-q-zhongyixilu"
+  },
+  {
+   "name": "郑东新区周边",
+   "slug": "zhengdongxinqu-q-zhengdongxqzb"
+  }
+ ],
+ "中原": [
+  {
+   "name": "碧沙岗",
+   "slug": "zhongyuanb-q-bishagang"
+  },
+  {
+   "name": "常西湖",
+   "slug": "zhongyuanb-q-changxihus"
+  },
+  {
+   "name": "帝湖",
+   "slug": "zhongyuanb-q-jiansheluzz"
+  },
+  {
+   "name": "航海西路",
+   "slug": "zhongyuanb-q-shiyangsi"
+  },
+  {
+   "name": "淮河西路",
+   "slug": "zhongyuanb-q-huaihexilu"
+  },
+  {
+   "name": "建设西路",
+   "slug": "zhongyuanb-q-jianshexilu"
+  },
+  {
+   "name": "凯旋门",
+   "slug": "zhongyuanb-q-kaixuanmen"
+  },
+  {
+   "name": "林山寨",
+   "slug": "zhongyuanb-q-linshanzhai"
+  },
+  {
+   "name": "陇海西路",
+   "slug": "zhongyuanb-q-longhaixilu"
+  },
+  {
+   "name": "棉纺路",
+   "slug": "zhongyuanb-q-mianfanglu"
+  },
+  {
+   "name": "秦岭路",
+   "slug": "zhongyuanb-q-qinlinglu"
+  },
+  {
+   "name": "汝河路",
+   "slug": "zhongyuanb-q-ruhelu"
+  },
+  {
+   "name": "三官庙",
+   "slug": "zhongyuanb-q-sanguanmiao"
+  },
+  {
+   "name": "嵩山北路",
+   "slug": "zhongyuanb-q-songshanbeilu"
+  },
+  {
+   "name": "柿园",
+   "slug": "zhongyuanb-q-shiy"
+  },
+  {
+   "name": "石佛镇",
+   "slug": "zhongyuanb-q-shifz"
+  },
+  {
+   "name": "桐柏路",
+   "slug": "zhongyuanb-q-zhouxinzhuang"
+  },
+  {
+   "name": "桐柏北路",
+   "slug": "zhongyuanb-q-tbbl"
+  },
+  {
+   "name": "桐柏南路",
+   "slug": "zhongyuanb-q-tbnl"
+  },
+  {
+   "name": "五龙口",
+   "slug": "zhongyuanb-q-lvdongcun"
+  },
+  {
+   "name": "五一公园",
+   "slug": "zhongyuanb-q-wuyigy"
+  },
+  {
+   "name": "文化宫路",
+   "slug": "zhongyuanb-q-wenhuagl"
+  },
+  {
+   "name": "伊河路",
+   "slug": "zhongyuanb-q-yihelu"
+  },
+  {
+   "name": "中原西路",
+   "slug": "zhongyuanb-q-zhongyuanxilu"
+  },
+  {
+   "name": "郑州市一中",
+   "slug": "zhongyuanb-q-zzsyz"
+  },
+  {
+   "name": "郑上路小学",
+   "slug": "zhongyuanb-q-zslxx"
+  },
+  {
+   "name": "中原周边",
+   "slug": "zhongyuanb-q-zhongyuanqu"
+  }
+ ],
+ "管城": [
+  {
+   "name": "安徐庄",
+   "slug": "guanchenga-q-axzzz"
+  },
+  {
+   "name": "城东路",
+   "slug": "guanchenga-q-chengdonglu"
+  },
+  {
+   "name": "东大街",
+   "slug": "guanchenga-q-dongdajiezz"
+  },
+  {
+   "name": "东明路南段",
+   "slug": "guanchenga-q-dongml"
+  },
+  {
+   "name": "东太康路",
+   "slug": "guanchenga-q-dongtaikanglu"
+  },
+  {
+   "name": "二里岗",
+   "slug": "guanchenga-q-erligang"
+  },
+  {
+   "name": "凤台路",
+   "slug": "guanchenga-q-fengtailuzz"
+  },
+  {
+   "name": "富田太阳城",
+   "slug": "guanchenga-q-fttyczz"
+  },
+  {
+   "name": "管南片",
+   "slug": "guanchenga-q-guannanpian"
+  },
+  {
+   "name": "管城周边",
+   "slug": "guanchenga-q-guanchengqu"
+  },
+  {
+   "name": "航海东路",
+   "slug": "guanchenga-q-shangyingjie"
+  },
+  {
+   "name": "陇海东路",
+   "slug": "guanchenga-q-xishilipu"
+  },
+  {
+   "name": "南关",
+   "slug": "guanchenga-q-nanguanzz"
+  },
+  {
+   "name": "南大街",
+   "slug": "guanchenga-q-ndj"
+  },
+  {
+   "name": "人民路",
+   "slug": "guanchenga-q-zzrenminlu"
+  },
+  {
+   "name": "商代遗址",
+   "slug": "guanchenga-q-shangdaiyizhi"
+  },
+  {
+   "name": "商城路",
+   "slug": "guanchenga-q-shangcl"
+  },
+  {
+   "name": "世纪欢乐园",
+   "slug": "guanchenga-q-shihlc"
+  },
+  {
+   "name": "西大街",
+   "slug": "guanchenga-q-xidajiezz"
+  },
+  {
+   "name": "紫荆山路",
+   "slug": "guanchenga-q-zijingshannanlu"
+  },
+  {
+   "name": "郑汴路",
+   "slug": "guanchenga-q-zhengbianlu"
+  }
+ ],
+ "新郑": [
+  {
+   "name": "龙湖双湖大道",
+   "slug": "xinzhengshi-q-longhushuanghudadao"
+  },
+  {
+   "name": "龙湖阳光大道",
+   "slug": "xinzhengshi-q-longhuyangguangdadao"
+  },
+  {
+   "name": "龙湖沙窝李",
+   "slug": "xinzhengshi-q-longhushawoli"
+  },
+  {
+   "name": "龙湖华南城",
+   "slug": "xinzhengshi-q-longhuhuanancheng"
+  },
+  {
+   "name": "新郑城区",
+   "slug": "xinzhengshi-q-xinzheng"
+  }
+ ],
+ "高新区": [
+  {
+   "name": "大学科技园西区",
+   "slug": "gaoxinqub-q-daxuekejiyuanxiqu"
+  },
+  {
+   "name": "公园道",
+   "slug": "gaoxinqub-q-gongyuandaoabc"
+  },
+  {
+   "name": "科学大道",
+   "slug": "gaoxinqub-q-kexuedadao"
+  },
+  {
+   "name": "莲花街",
+   "slug": "gaoxinqub-q-lainhuajie"
+  },
+  {
+   "name": "瑞达路",
+   "slug": "gaoxinqub-q-ruidalu"
+  }
+ ],
+ "惠济": [
+  {
+   "name": "北大学城",
+   "slug": "huiji-q-beidaxuecheng"
+  },
+  {
+   "name": "大河路",
+   "slug": "huiji-q-dahelu"
+  },
+  {
+   "name": "江山路",
+   "slug": "huiji-q-jiangshanl"
+  },
+  {
+   "name": "开元路",
+   "slug": "huiji-q-kaiyuanl"
+  },
+  {
+   "name": "刘寨",
+   "slug": "huiji-q-liuzhai"
+  },
+  {
+   "name": "邙山片",
+   "slug": "huiji-q-mangshanpian"
+  },
+  {
+   "name": "省体育中心",
+   "slug": "huiji-q-xinchengzz"
+  },
+  {
+   "name": "思念果岭",
+   "slug": "huiji-q-huijiqu"
+  },
+  {
+   "name": "迎宾路",
+   "slug": "huiji-q-yingbinlu"
+  },
+  {
+   "name": "英才街",
+   "slug": "huiji-q-yingcaij"
+  }
+ ],
+ "中牟": [
+  {
+   "name": "白沙镇",
+   "slug": "zhongmou-q-bszzz"
+  },
+  {
+   "name": "百乐汇购物中心",
+   "slug": "zhongmou-q-blhgwzxzz"
+  },
+  {
+   "name": "杉杉奥特莱斯",
+   "slug": "zhongmou-q-ssatlszz"
+  },
+  {
+   "name": "中牟城区",
+   "slug": "zhongmou-q-shangjiequ"
+  },
+  {
+   "name": "中牟县人民医院",
+   "slug": "zhongmou-q-zhongmuxianrenminyiyuanaa"
+  }
+ ],
+ "荥阳": [
+  {
+   "name": "洞林湖",
+   "slug": "zzxingyangshi-q-dlhzz"
+  },
+  {
+   "name": "荥阳城区",
+   "slug": "zzxingyangshi-q-yingyang"
+  },
+  {
+   "name": "忆江南",
+   "slug": "zzxingyangshi-q-yijiangnan"
+  }
+ ],
+ "经开区": [
+  {
+   "name": "滨河新区",
+   "slug": "jingkaiz-q-bhxqzz"
+  },
+  {
+   "name": "第三大街",
+   "slug": "jingkaiz-q-disandj"
+  },
+  {
+   "name": "第八大街",
+   "slug": "jingkaiz-q-dibadj"
+  },
+  {
+   "name": "经开物流园区",
+   "slug": "jingkaiz-q-jkqwlyq"
+  },
+  {
+   "name": "远大理想城",
+   "slug": "jingkaiz-q-yuandalxc"
+  }
+ ],
+ "航空港": [
+  {
+   "name": "北港",
+   "slug": "hangkongganga-q-beigangzz"
+  },
+  {
+   "name": "南港",
+   "slug": "hangkongganga-q-nangangzz"
+  },
+  {
+   "name": "薛店",
+   "slug": "hangkongganga-q-xuediana"
+  }
+ ],
+ "上街": [
+  {
+   "name": "工业路",
+   "slug": "zzshangjiequ-q-gongyelu"
+  },
+  {
+   "name": "济源路",
+   "slug": "zzshangjiequ-q-jiyuanluzz"
+  },
+  {
+   "name": "矿山",
+   "slug": "zzshangjiequ-q-kuangshan"
+  },
+  {
+   "name": "上街周边",
+   "slug": "zzshangjiequ-q-shangjiezhoubian"
+  },
+  {
+   "name": "新安路",
+   "slug": "zzshangjiequ-q-xinanluzz"
+  },
+  {
+   "name": "中心路",
+   "slug": "zzshangjiequ-q-zhongxinlu"
+  }
+ ],
+ "新密": [
+  {
+   "name": "曲梁镇",
+   "slug": "xinmishi-q-quliangz"
+  },
+  {
+   "name": "新密城区",
+   "slug": "xinmishi-q-xinmichenqu"
+  }
+ ],
+ "巩义": [
+  {
+   "name": "巩义城区",
+   "slug": "gongyishi-q-gongyichenqu"
+  }
+ ],
+ "登封": [
+  {
+   "name": "登封城区",
+   "slug": "dengfengshi-q-dengfengchenqu"
+  }
+ ],
+ "郑州周边": [
+  {
+   "name": "新乡",
+   "slug": "zhengzhouzhoubian-q-xinxiangzz"
+  }
+ ]
+}

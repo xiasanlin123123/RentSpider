@@ -1,0 +1,241 @@
+郑州各区县 -> 安居客租房列表页地址（2026-10-01 实测有效）
+说明：制表符分隔。大区行两段（地区名 + 列表页地址）；二级商圈行三段（空 + 商圈名 + 列表页地址）。
+商圈地址形如 {区域编码}-q-{商圈编码}，末尾的随机后缀是官网内部编码，
+不能按拼音推断（猜错的地址不会报错，而是静默返回整个大区，极易误判）。
+
+全部（郑州所有地区）	https://zz.zu.anjuke.com/fangyuan/
+
+金水	https://zz.zu.anjuke.com/fangyuan/jinshui/
+	博颂路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-renminluzz/
+	北环路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-beihuanlu/
+	陈寨	https://zz.zu.anjuke.com/fangyuan/jinshui-q-chenz/
+	东风路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-dongfengluzz/
+	大石桥	https://zz.zu.anjuke.com/fangyuan/jinshui-q-dashiqiaozz/
+	东明路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-xinliulu/
+	东三街	https://zz.zu.anjuke.com/fangyuan/jinshui-q-dongsanjie/
+	21世纪社区	https://zz.zu.anjuke.com/fangyuan/jinshui-q-sjsq/
+	丰产路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-xihanzhai/
+	丰庆路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-fengqinglu/
+	丰乐路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-fengll/
+	福彩路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-fucail/
+	国基路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-guojilu/
+	广电南路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-zhongfangyuan/
+	花园路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-huayuanlu/
+	黄河路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-huangheluzz/
+	红专路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-hzl/
+	经七路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-jingbalu/
+	金水路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-beilinlu/
+	经三路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-fenghuangtaizz/
+	金水周边	https://zz.zu.anjuke.com/fangyuan/jinshui-q-jinshuiqu/
+	科技市场	https://zz.zu.anjuke.com/fangyuan/jinshui-q-kjsc/
+	绿荫广场	https://zz.zu.anjuke.com/fangyuan/jinshui-q-lygc/
+	曼哈顿	https://zz.zu.anjuke.com/fangyuan/jinshui-q-mhdzz/
+	南阳路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-xishakou/
+	农业路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-nongyelu/
+	农科路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-nongkel/
+	三全路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-jinchengzz/
+	索凌路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-suolinglu/
+	沙口路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-shakl/
+	水上公园	https://zz.zu.anjuke.com/fangyuan/jinshui-q-ssgy/
+	省政府	https://zz.zu.anjuke.com/fangyuan/jinshui-q-szf/
+	天明路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-tianml/
+	文化路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-dapu/
+	未来路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-yanzhuang/
+	文博广场	https://zz.zu.anjuke.com/fangyuan/jinshui-q-wbgc/
+	新通桥	https://zz.zu.anjuke.com/fangyuan/jinshui-q-xtq/
+	鑫苑路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-xinyl/
+	英协路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-yingxielu/
+	燕庄	https://zz.zu.anjuke.com/fangyuan/jinshui-q-yzhuang/
+	玉凤路	https://zz.zu.anjuke.com/fangyuan/jinshui-q-yfl/
+	郑州东站	https://zz.zu.anjuke.com/fangyuan/jinshui-q-dongzhanpian/
+	政七街	https://zz.zu.anjuke.com/fangyuan/jinshui-q-duling/
+	中州大道	https://zz.zu.anjuke.com/fangyuan/jinshui-q-longzihuzz/
+	中医院	https://zz.zu.anjuke.com/fangyuan/jinshui-q-zyy/
+
+二七	https://zz.zu.anjuke.com/fangyuan/erqic/
+	碧云路	https://zz.zu.anjuke.com/fangyuan/erqic-q-byl/
+	长江路	https://zz.zu.anjuke.com/fangyuan/erqic-q-changjiangluzz/
+	大学路	https://zz.zu.anjuke.com/fangyuan/erqic-q-daxuelu/
+	大学南路	https://zz.zu.anjuke.com/fangyuan/erqic-q-dxnl/
+	二七周边	https://zz.zu.anjuke.com/fangyuan/erqic-q-erqiqu/
+	古玩城	https://zz.zu.anjuke.com/fangyuan/erqic-q-gwczz/
+	淮河路	https://zz.zu.anjuke.com/fangyuan/erqic-q-luzhai/
+	火车站	https://zz.zu.anjuke.com/fangyuan/erqic-q-dehuajie/
+	华中片	https://zz.zu.anjuke.com/fangyuan/erqic-q-huazhp/
+	河医片	https://zz.zu.anjuke.com/fangyuan/erqic-q-heyip/
+	淮南街	https://zz.zu.anjuke.com/fangyuan/erqic-q-hnj/
+	淮北街	https://zz.zu.anjuke.com/fangyuan/erqic-q-hbj/
+	航海路	https://zz.zu.anjuke.com/fangyuan/erqic-q-hhlzz/
+	解放路	https://zz.zu.anjuke.com/fangyuan/erqic-q-jiefanglu/
+	京广路	https://zz.zu.anjuke.com/fangyuan/erqic-q-jingguanglu/
+	交通路	https://zz.zu.anjuke.com/fangyuan/erqic-q-jtl/
+	连云路	https://zz.zu.anjuke.com/fangyuan/erqic-q-lyunlu/
+	铭功路	https://zz.zu.anjuke.com/fangyuan/erqic-q-minggonglu/
+	棉纺东路	https://zz.zu.anjuke.com/fangyuan/erqic-q-mfdl/
+	南三环	https://zz.zu.anjuke.com/fangyuan/erqic-q-nshzz/
+	庆丰街	https://zz.zu.anjuke.com/fangyuan/erqic-q-qingfj/
+	嵩山路	https://zz.zu.anjuke.com/fangyuan/erqic-q-qiliyan/
+	嵩山南路	https://zz.zu.anjuke.com/fangyuan/erqic-q-ssnl/
+	升龙国际	https://zz.zu.anjuke.com/fangyuan/erqic-q-slgj/
+	桃源路	https://zz.zu.anjuke.com/fangyuan/erqic-q-tyl/
+	万达广场	https://zz.zu.anjuke.com/fangyuan/erqic-q-wandgc/
+	兴华南街	https://zz.zu.anjuke.com/fangyuan/erqic-q-xinghuanj/
+	一马路	https://zz.zu.anjuke.com/fangyuan/erqic-q-yimalu/
+	政通路	https://zz.zu.anjuke.com/fangyuan/erqic-q-ztl/
+
+郑东新区	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu/
+	北龙湖	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-beilonghuzz/
+	CBD	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-cbdneihuanlu/
+	东风东路	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-dongfengdonglu/
+	东风南路	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-dongfengnanlu/
+	鸿园片区	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-hongyuanpianquabc/
+	黄河东路	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-huanghedonglu/
+	黄河南路	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-huanghenanlu/
+	祭城	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-jczz/
+	聚源路	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-juyuanl/
+	金水东路	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-jinshuidonglu/
+	九如路	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-jrl/
+	康宁街	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-kangnignjie/
+	康平路	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-kangpinglu/
+	龙子湖	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-lzhzz/
+	绿地老街	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-lvdilaojie/
+	绿城百合	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-lvchengbh/
+	列里路	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-lielilu/
+	农业东路	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-nonglindonglu/
+	农业南路	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-nongynanlu/
+	七里河	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-qilh/
+	商都路	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-shangdl/
+	商鼎路	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-shangdingl/
+	通泰路	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-tongtailu/
+	天赋路	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-tfl/
+	祥盛街	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-xiangshengjie/
+	心怡路	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-xinyilu/
+	兴荣街	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-xrj/
+	新东站片	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-xdzp/
+	杨金片区	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-yangjinpianquabc/
+	永平路	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-yongpinglu/
+	众意西路	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-zhongyixilu/
+	郑东新区周边	https://zz.zu.anjuke.com/fangyuan/zhengdongxinqu-q-zhengdongxqzb/
+
+中原	https://zz.zu.anjuke.com/fangyuan/zhongyuanb/
+	碧沙岗	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-bishagang/
+	常西湖	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-changxihus/
+	帝湖	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-jiansheluzz/
+	航海西路	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-shiyangsi/
+	淮河西路	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-huaihexilu/
+	建设西路	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-jianshexilu/
+	凯旋门	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-kaixuanmen/
+	林山寨	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-linshanzhai/
+	陇海西路	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-longhaixilu/
+	棉纺路	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-mianfanglu/
+	秦岭路	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-qinlinglu/
+	汝河路	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-ruhelu/
+	三官庙	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-sanguanmiao/
+	嵩山北路	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-songshanbeilu/
+	柿园	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-shiy/
+	石佛镇	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-shifz/
+	桐柏路	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-zhouxinzhuang/
+	桐柏北路	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-tbbl/
+	桐柏南路	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-tbnl/
+	五龙口	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-lvdongcun/
+	五一公园	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-wuyigy/
+	文化宫路	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-wenhuagl/
+	伊河路	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-yihelu/
+	中原西路	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-zhongyuanxilu/
+	郑州市一中	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-zzsyz/
+	郑上路小学	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-zslxx/
+	中原周边	https://zz.zu.anjuke.com/fangyuan/zhongyuanb-q-zhongyuanqu/
+
+管城	https://zz.zu.anjuke.com/fangyuan/guanchenga/
+	安徐庄	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-axzzz/
+	城东路	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-chengdonglu/
+	东大街	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-dongdajiezz/
+	东明路南段	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-dongml/
+	东太康路	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-dongtaikanglu/
+	二里岗	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-erligang/
+	凤台路	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-fengtailuzz/
+	富田太阳城	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-fttyczz/
+	管南片	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-guannanpian/
+	管城周边	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-guanchengqu/
+	航海东路	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-shangyingjie/
+	陇海东路	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-xishilipu/
+	南关	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-nanguanzz/
+	南大街	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-ndj/
+	人民路	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-zzrenminlu/
+	商代遗址	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-shangdaiyizhi/
+	商城路	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-shangcl/
+	世纪欢乐园	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-shihlc/
+	西大街	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-xidajiezz/
+	紫荆山路	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-zijingshannanlu/
+	郑汴路	https://zz.zu.anjuke.com/fangyuan/guanchenga-q-zhengbianlu/
+
+新郑	https://zz.zu.anjuke.com/fangyuan/xinzhengshi/
+	龙湖双湖大道	https://zz.zu.anjuke.com/fangyuan/xinzhengshi-q-longhushuanghudadao/
+	龙湖阳光大道	https://zz.zu.anjuke.com/fangyuan/xinzhengshi-q-longhuyangguangdadao/
+	龙湖沙窝李	https://zz.zu.anjuke.com/fangyuan/xinzhengshi-q-longhushawoli/
+	龙湖华南城	https://zz.zu.anjuke.com/fangyuan/xinzhengshi-q-longhuhuanancheng/
+	新郑城区	https://zz.zu.anjuke.com/fangyuan/xinzhengshi-q-xinzheng/
+
+高新区	https://zz.zu.anjuke.com/fangyuan/gaoxinqub/
+	大学科技园西区	https://zz.zu.anjuke.com/fangyuan/gaoxinqub-q-daxuekejiyuanxiqu/
+	公园道	https://zz.zu.anjuke.com/fangyuan/gaoxinqub-q-gongyuandaoabc/
+	科学大道	https://zz.zu.anjuke.com/fangyuan/gaoxinqub-q-kexuedadao/
+	莲花街	https://zz.zu.anjuke.com/fangyuan/gaoxinqub-q-lainhuajie/
+	瑞达路	https://zz.zu.anjuke.com/fangyuan/gaoxinqub-q-ruidalu/
+
+惠济	https://zz.zu.anjuke.com/fangyuan/huiji/
+	北大学城	https://zz.zu.anjuke.com/fangyuan/huiji-q-beidaxuecheng/
+	大河路	https://zz.zu.anjuke.com/fangyuan/huiji-q-dahelu/
+	江山路	https://zz.zu.anjuke.com/fangyuan/huiji-q-jiangshanl/
+	开元路	https://zz.zu.anjuke.com/fangyuan/huiji-q-kaiyuanl/
+	刘寨	https://zz.zu.anjuke.com/fangyuan/huiji-q-liuzhai/
+	邙山片	https://zz.zu.anjuke.com/fangyuan/huiji-q-mangshanpian/
+	省体育中心	https://zz.zu.anjuke.com/fangyuan/huiji-q-xinchengzz/
+	思念果岭	https://zz.zu.anjuke.com/fangyuan/huiji-q-huijiqu/
+	迎宾路	https://zz.zu.anjuke.com/fangyuan/huiji-q-yingbinlu/
+	英才街	https://zz.zu.anjuke.com/fangyuan/huiji-q-yingcaij/
+
+中牟	https://zz.zu.anjuke.com/fangyuan/zhongmou/
+	白沙镇	https://zz.zu.anjuke.com/fangyuan/zhongmou-q-bszzz/
+	百乐汇购物中心	https://zz.zu.anjuke.com/fangyuan/zhongmou-q-blhgwzxzz/
+	杉杉奥特莱斯	https://zz.zu.anjuke.com/fangyuan/zhongmou-q-ssatlszz/
+	中牟城区	https://zz.zu.anjuke.com/fangyuan/zhongmou-q-shangjiequ/
+	中牟县人民医院	https://zz.zu.anjuke.com/fangyuan/zhongmou-q-zhongmuxianrenminyiyuanaa/
+
+荥阳	https://zz.zu.anjuke.com/fangyuan/zzxingyangshi/
+	洞林湖	https://zz.zu.anjuke.com/fangyuan/zzxingyangshi-q-dlhzz/
+	荥阳城区	https://zz.zu.anjuke.com/fangyuan/zzxingyangshi-q-yingyang/
+	忆江南	https://zz.zu.anjuke.com/fangyuan/zzxingyangshi-q-yijiangnan/
+
+经开区	https://zz.zu.anjuke.com/fangyuan/jingkaiz/
+	滨河新区	https://zz.zu.anjuke.com/fangyuan/jingkaiz-q-bhxqzz/
+	第三大街	https://zz.zu.anjuke.com/fangyuan/jingkaiz-q-disandj/
+	第八大街	https://zz.zu.anjuke.com/fangyuan/jingkaiz-q-dibadj/
+	经开物流园区	https://zz.zu.anjuke.com/fangyuan/jingkaiz-q-jkqwlyq/
+	远大理想城	https://zz.zu.anjuke.com/fangyuan/jingkaiz-q-yuandalxc/
+
+航空港	https://zz.zu.anjuke.com/fangyuan/hangkongganga/
+	北港	https://zz.zu.anjuke.com/fangyuan/hangkongganga-q-beigangzz/
+	南港	https://zz.zu.anjuke.com/fangyuan/hangkongganga-q-nangangzz/
+	薛店	https://zz.zu.anjuke.com/fangyuan/hangkongganga-q-xuediana/
+
+上街	https://zz.zu.anjuke.com/fangyuan/zzshangjiequ/
+	工业路	https://zz.zu.anjuke.com/fangyuan/zzshangjiequ-q-gongyelu/
+	济源路	https://zz.zu.anjuke.com/fangyuan/zzshangjiequ-q-jiyuanluzz/
+	矿山	https://zz.zu.anjuke.com/fangyuan/zzshangjiequ-q-kuangshan/
+	上街周边	https://zz.zu.anjuke.com/fangyuan/zzshangjiequ-q-shangjiezhoubian/
+	新安路	https://zz.zu.anjuke.com/fangyuan/zzshangjiequ-q-xinanluzz/
+	中心路	https://zz.zu.anjuke.com/fangyuan/zzshangjiequ-q-zhongxinlu/
+
+新密	https://zz.zu.anjuke.com/fangyuan/xinmishi/
+	曲梁镇	https://zz.zu.anjuke.com/fangyuan/xinmishi-q-quliangz/
+	新密城区	https://zz.zu.anjuke.com/fangyuan/xinmishi-q-xinmichenqu/
+
+巩义	https://zz.zu.anjuke.com/fangyuan/gongyishi/
+	巩义城区	https://zz.zu.anjuke.com/fangyuan/gongyishi-q-gongyichenqu/
+
+登封	https://zz.zu.anjuke.com/fangyuan/dengfengshi/
+	登封城区	https://zz.zu.anjuke.com/fangyuan/dengfengshi-q-dengfengchenqu/
+
+郑州周边	https://zz.zu.anjuke.com/fangyuan/zhengzhouzhoubian/
+	新乡	https://zz.zu.anjuke.com/fangyuan/zhengzhouzhoubian-q-xinxiangzz/
